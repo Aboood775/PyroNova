@@ -1,0 +1,58 @@
+[
+  {
+    "material_group":"PMMA",
+    "tests":48,
+    "ignited":31,
+    "spread":7,
+    "extinguished":16
+  },
+  {
+    "material_group":"Sphere (material not stated)",
+    "tests":30,
+    "ignited":23,
+    "spread":6,
+    "extinguished":12
+  },
+  {
+    "material_group":"Wax \/ candle",
+    "tests":23,
+    "ignited":8,
+    "spread":1,
+    "extinguished":10
+  },
+  {
+    "material_group":"SIBAL",
+    "tests":12,
+    "ignited":5,
+    "spread":3,
+    "extinguished":3
+  },
+  {
+    "material_group":"Not stated",
+    "tests":8,
+    "ignited":0,
+    "spread":0,
+    "extinguished":0
+  },
+  {
+    "material_group":"Nomex",
+    "tests":6,
+    "ignited":3,
+    "spread":2,
+    "extinguished":1
+  },
+  {
+    "material_group":"Ultem",
+    "tests":2,
+    "ignited":1,
+    "spread":1,
+    "extinguished":1
+  },
+  {
+    "material_group":"Other",
+    "tests":1,
+    "ignited":0,
+    "spread":0,
+    "extinguished":0
+  }
+]

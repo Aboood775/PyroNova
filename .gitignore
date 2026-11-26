@@ -1,0 +1,22 @@
+# secrets
+.env
+*.pem
+*.key
+*.jks
+*.keystore
+*service-account*.json
+*firebase-adminsdk*.json
+google-services.json
+local.properties
+# build output and dependencies
+node_modules/
+vendor/
+build/
+.gradle/
+.kotlin/
+.next/
+__pycache__/
+*.apk
+*.aab
+.idea/
+.DS_Store
