@@ -7,6 +7,12 @@ A fire in space behaves differently from a fire on Earth. PyroNova turns NASA mi
 research into fire-safety support for two users: **engineers before the mission** (web dashboard) and
 **astronauts during an emergency** (mobile app).
 
+## Videos
+
+[![PyroNova | NASA Space Apps Cairo 2026 | Flame in Freefall](https://img.youtube.com/vi/HsP8Qnx5H2g/hqdefault.jpg)](https://www.youtube.com/watch?v=HsP8Qnx5H2g)
+
+- [Project video: PyroNova, NASA Space Apps Cairo 2026](https://www.youtube.com/watch?v=HsP8Qnx5H2g)
+
 ## Repository layout
 
 | Folder | What it is | Stack |
