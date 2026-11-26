@@ -9,9 +9,10 @@ research into fire-safety support for two users: **engineers before the mission*
 
 ## Videos
 
-[![PyroNova | NASA Space Apps Cairo 2026 | Flame in Freefall](https://img.youtube.com/vi/HsP8Qnx5H2g/hqdefault.jpg)](https://www.youtube.com/watch?v=HsP8Qnx5H2g)
-
-- [Project video: PyroNova, NASA Space Apps Cairo 2026](https://www.youtube.com/watch?v=HsP8Qnx5H2g)
+| Concept video (Space Apps submission) | App demo |
+|---|---|
+| [![PyroNova concept video](https://img.youtube.com/vi/HsP8Qnx5H2g/hqdefault.jpg)](https://youtu.be/HsP8Qnx5H2g) | [![PyroNova demo video](https://img.youtube.com/vi/jdB3v0jOhrY/hqdefault.jpg)](https://youtu.be/jdB3v0jOhrY) |
+| [PyroNova \| NASA Space Apps Cairo 2026 \| Flame in Freefall](https://youtu.be/HsP8Qnx5H2g) | [PyroNova: Flame in Freefall \| NASA Space Apps Cairo 2026 Demo](https://youtu.be/jdB3v0jOhrY) |
 
 ## Repository layout
 
